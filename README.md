@@ -28,10 +28,10 @@ And here is my schedule which I try to stick to:
 | Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | -----| ------ | ------- | --------- | -------- | ------ | -------- | ------ |
 | 08:30| Jogging | Having breakfast | Sleeping | Going to the gym | Leaving home | Driving to university | Sleeping |
-| 16:00| Studying in the library  | Visiting my grandma | Have some rest | Going to the cinema | Revising material | Finishing lectures | Waking up |
+| 16:00| Studying in the library  | Visiting my grandma | Having some rest | Going to the cinema | Revising material | Finishing lectures | Waking up |
 | 19:00| Doing homework | Preparing for tests | Walking my dog | Cooking dinner | Meeting with my friends | Having fun | Walking |
 | 23:00| Going to bed | Revising material | Chatting with friends | Watching movies in the original | Going to bed | Still having fun | Sleeping |
 
-+ Thank you for your time, I hope that you enjoyed reading this!;
++ Thank you for your time, I hope that you enjoyed reading this!
 
 ![alt-текст](https://i.ytimg.com/vi/Py9uWbhA2A8/maxresdefault.jpg "Необязат")
